@@ -1,0 +1,54 @@
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.AssemblyReference.cache
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Resources.resources
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.vb
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\KIM\source\repos\New folder\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+E:\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+E:\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+E:\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+E:\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+E:\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.AssemblyReference.cache
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Resources.resources
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.vb
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+E:\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+E:\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.AssemblyReference.cache
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Resources.resources
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.vb
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\muna sirkorei hilton\OneDrive\Desktop\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
